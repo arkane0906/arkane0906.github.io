@@ -31,6 +31,6 @@ github:
 
 # Top links
 pages_list:
-  О блоге: '/about'
-  Архив записей: '/archive'
-  Лента: '/atom.xml'
+  О блоге: '/jekyll-blog/about'
+  Архив записей: '/jekyll-blog/archive'
+  Лента: '/jekyll-blog/atom.xml'
