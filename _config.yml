@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Arkane
+tagline:             Заметки программиста
+url:                 http://arkane0906.github.io/jekyll-blog
 paginate:            1
 baseurl:             "/jekyll-blog"
 
