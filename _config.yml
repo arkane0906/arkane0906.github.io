@@ -28,3 +28,9 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/arkane0906/jekyll-blog
+
+# Top links
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+  Лента: '/atom.xml'
