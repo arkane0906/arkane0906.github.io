@@ -1,36 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Arkane
-tagline:             Заметки программиста
-url:                 http://arkane0906.github.io/jekyll-blog
-paginate:            1
-baseurl:             "/jekyll-blog"
+title:            Arkane
+tagline:          Заметки программиста
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://arkane0906.github.io/jekyll-blog
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
   name:              Eugen Idelbaev
   url:               https://vk.com/idelbaev
-  email:             arkane0906@gmail.com
+
+paginate:         5
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/arkane0906/jekyll-blog
+version:          2.0.0
 
-# Top links
-pages_list:
-  О блоге: '/jekyll-blog/about'
-  Архив записей: '/jekyll-blog/archive'
-  Лента: '/jekyll-blog/atom.xml'
+github:
+  repo:           https://github.com/arkane0906/jekyll-blog
