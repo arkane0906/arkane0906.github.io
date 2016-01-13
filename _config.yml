@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:            Idelbaev.ru 
+tagline:          Заметки программиста
+description:      'Привет, друзья! Меня зовут Идельбаев Евгений и это мой блог. Здесь я пишу о веб-разработке и программировании. Надеюсь, буду полезен!'
+url:              http://arkane0906.github.io/jekyll-blog
+
+author:
+  name:              Eugen Idelbaev
+  url:               https://vk.com/idelbaev
+
+paginate:         3
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/arkane0906/jekyll-blog
