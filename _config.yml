@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            arkane0906
 tagline:          Manuals, Tricks and Advices for Web
 description:      'Привет, друзья! Меня зовут Идельбаев Евгений и это мой блог. Здесь я пишу о веб-разработке и программировании. Надеюсь, буду полезен!'
-url:              http://arkane0906.github.io/arkane0906.github.io
+url:              http://arkane0906.github.io
 
 author:
   name:              Eugen Idelbaev
