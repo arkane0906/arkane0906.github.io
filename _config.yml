@@ -7,10 +7,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            Idelbaev.ru 
+title:            Idelbaev.ru
 tagline:          Заметки программиста
 description:      'Привет, друзья! Меня зовут Идельбаев Евгений и это мой блог. Здесь я пишу о веб-разработке и программировании. Надеюсь, буду полезен!'
-url:              http://arkane0906.github.io/jekyll-blog
+url:              http://arkane0906.github.io/arkane0906.github.io
 
 author:
   name:              Eugen Idelbaev
@@ -22,4 +22,4 @@ paginate:         3
 version:          2.0.0
 
 github:
-  repo:           https://github.com/arkane0906/jekyll-blog
+  repo:           https://github.com/arkane0906/arkane0906.github.io
