@@ -4,6 +4,8 @@ title: Example content
 description: Стандартная статья - скоро удалю
 ---
 
+<noindex>
+
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
@@ -121,3 +123,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
+</noindex>
+

@@ -34,6 +34,8 @@ sass input.scss output.css
 - [http://thesassway.com/beginner/](http://thesassway.com/beginner/)
 - [https://scotch.io/tutorials/getting-started-with-less/](https://scotch.io/tutorials/getting-started-with-less/)
 
+<noindex>
+
 ### Второй абзац
 
 Тебе лучше поспать. Я так жить не могу. Это был злой кролик. Я сказал им послать мне ещё один билет. У меня нет слов.
@@ -67,3 +69,5 @@ def get_float(value):
 <img src="http://arkane0906.github.io/public/images/7758832526_cc8f681e48_c.jpg" alt="Изображение первого постав моего блога">
 
 Я зарабатываю сто евро в день. Когда-то я хотел быть астрофизиком. К сожалению, это правда. Один раз в жизни я делаю хорошее дело... И оно бесполезно. Давайте что-нибудь попробуем!
+
+</noindex>
