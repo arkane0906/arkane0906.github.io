@@ -10,14 +10,14 @@ description: Стандартная статья - скоро удалю
 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com){:rel=nofollow}, the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo){:rel=nofollow} to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
 
 There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com){:rel=nofollow}
-* [Lanyon](http://lanyon.getpoole.com){:rel=nofollow}
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole){:rel=nofollow}.
+Learn more and contribute on [GitHub](https://github.com/poole).
 
 ### What's included
 
@@ -38,7 +38,7 @@ Poole and its themes are by preference a forward-thinking project. In addition t
 
 ### Download
 
-Poole is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole" rel="nofollow">GitHub repository</a> for downloads, bug reports, and features requests.
+Poole is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
 
