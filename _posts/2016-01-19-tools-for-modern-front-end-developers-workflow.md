@@ -30,9 +30,9 @@ sass input.scss output.css
 
 Это несколько ресурсов, где вы можете узнать больше о CSS препроцессорах:
 
-- [http://sass-guidelin.es/](http://sass-guidelin.es/)
-- [http://thesassway.com/beginner/](http://thesassway.com/beginner/)
-- [https://scotch.io/tutorials/getting-started-with-less/](https://scotch.io/tutorials/getting-started-with-less/)
+- [http://sass-guidelin.es/](http://sass-guidelin.es/){:rel=nofollow}
+- [http://thesassway.com/beginner/](http://thesassway.com/beginner/){:rel=nofollow}
+- [https://scotch.io/tutorials/getting-started-with-less/](https://scotch.io/tutorials/getting-started-with-less/){:rel=nofollow}
 
 <noindex>
 
