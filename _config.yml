@@ -1,8 +1,8 @@
 # Dependencies
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
-permalink:           pretty
+permalink:		pretty
 
 # Setup
 title:            sundev.ru
