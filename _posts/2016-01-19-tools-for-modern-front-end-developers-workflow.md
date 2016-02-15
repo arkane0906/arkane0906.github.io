@@ -4,7 +4,7 @@ title: Инструменты для современного Front-End разр
 description: Инструменты для современного Front-End разработчика
 ---
 
-<img src="http://sundev.ru/public/images/image.svg" alt="Инструменты для современного Front-End разработчика" class="image-bg">
+<div class="image-bg"><img src="http://sundev.ru/public/images/image.svg" alt="Инструменты для современного Front-End разработчика"></div>
 
 Front-end разработчики обязаны верстать pixel-perfect макеты, которые отображаются должным образом на всех браузерах. Со временем это стало проще с помощью более продвинутых браузеров и большим количество инструментов разработки.
 
